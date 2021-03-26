@@ -1,2 +1,2 @@
 # Competitive-Programming
-Codechef, Hackerrank and Codeforces Questions
+Codechef, Hackerrank and Codeforces Solutions 
