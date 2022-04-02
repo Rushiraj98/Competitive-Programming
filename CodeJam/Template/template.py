@@ -1,6 +1,6 @@
 # TODO: Make changes and add necessary functions for fast computation.
 # Avoid for loops
-# Check if Numpy can be used
+# Check if Numpy can be used: yes importing libraries is allowed. This changes everything.
 
 def solve():
     x = input().split()
