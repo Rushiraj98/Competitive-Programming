@@ -2,6 +2,7 @@
 # Avoid for loops
 # Check if Numpy can be used: yes importing libraries is allowed. This changes everything.
 
+# https://codeforces.com/problemset/problem/263/A
 
 def solve():
     x = input().split()
